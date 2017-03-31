@@ -5,7 +5,7 @@
 #include<string.h>
 #include "html.h"
 #include<sys/types.h>
-#define seed_url "http://xnxx.com/"
+#define seed_url "http://youtube.com/"
 #define HASH_SIZE 100
 #define URL_LENGTH 1000
 #define MAX_URL_PER_PAGE 1000
